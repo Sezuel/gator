@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/bootdotdev/gator/internal/config"
+	"github.com/sezuel/gator/internal/config"
 )
 
 type state struct {
