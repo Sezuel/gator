@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/bootdotdev/gator/internal/config"
-	"github.com/bootdotdev/gator/internal/database"
+	"github.com/sezuel/gator/internal/config"
+	"github.com/sezuel/gator/internal/database"
 	_ "github.com/lib/pq"
 )
 
